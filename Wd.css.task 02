@@ -1,0 +1,63 @@
+.background-image {
+
+  background-image: url('https://assets.onecompiler.app/4367mk6y8/43686krp7/Screenshot_2025-01-16-15-14-40-13_40deb401b9ffe8e1df2f1cc5ba480b12.jpg');
+
+  background-size: cover;
+
+  background-position: center;
+
+  height: 100vh;
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: space-between;
+
+  padding: 20px;
+
+  color: #fff;
+
+}
+
+header {
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  padding: 10px;
+
+}
+
+.features {
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  padding: 10px;
+
+}
+
+.about-us {
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  padding: 10px;
+
+}
+
+.description {
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  padding: 10px;
+
+}
+
+footer {
+
+  background-color: rgba(0, 0, 0, 0.5);
+
+  padding: 10px;
+
+  text-align: center;
+
+}
