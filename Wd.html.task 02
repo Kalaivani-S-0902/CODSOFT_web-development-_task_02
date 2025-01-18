@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Text on Background Image</title>
+
+	<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+	<div class="background-image">
+
+		<header>
+
+			<h1>Welcome "To The World Of Music"</h1>
+
+		</header>
+
+		<div class="features">
+
+			<h2>Genres</h2>
+
+			<ul>
+
+				<li>Melody</li>
+
+				<li>Love</li>
+
+				<li>pop</li>
+
+			</ul>
+
+		</div>
+
+		<div class="about-us">
+
+			<h2>About Us</h2>
+
+			<p>Making the life into music.word fails but the music speaks.hear any genre of music here!!!</p>
+
+		</div>
+
+		<div class="description">
+
+			<h2>Description</h2>
+
+			<p>Giving our love into the music.Enjoy your music with us for free.</p>
+
+    </div>
